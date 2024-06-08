@@ -1,0 +1,39 @@
+*{
+    flex-wrap: wrap;
+}
+.box1{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(8, 8, 8);
+    padding: 75px;
+}
+.box2{
+    margin: auto;
+    height: 350px;
+    width: 270px;
+    background-color:rgb(170, 156, 156);
+    padding-top: 15px;
+    padding-right: 20px;
+}
+.box3{
+    height: 40px;
+    width: 216px;
+    background-color: white;
+    margin-left: 32px;
+}
+.box{
+    width: 50px;
+    height: 60px;
+    margin: 1px;
+}
+.dv{
+margin-left: 33px;
+}
+.boxs{
+    color: aliceblue;
+    background-color: black;
+}
+.boxc{
+    color: whitesmoke;
+    background-color: red;
+}
